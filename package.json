@@ -1,0 +1,27 @@
+{
+  "name": "gulp-cslint",
+  "version": "0.0.0",
+  "private": false,
+  "description": "gulp plugin for eslint your coffee-script source",
+  "bin": "",
+  "main": "src/index.coffee",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "geta6",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.8.0",
+    "eslint": "^0.11.0",
+    "gulp-util": "^3.0.2",
+    "map-stream": "0.0.5",
+    "through2": "^0.6.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-coffee": "^2.2.0",
+    "gulp-coffeelint": "^0.4.0",
+    "gulp-mocha": "^2.0.0",
+    "run-sequence": "^1.0.2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "globals": {
+  },
+  "env": {
+    "node": true
+  },
+  "rules": {
+    "curly": false,
+    "quotes": false,
+    "no-return-assign": false,
+    "no-sequences": false,
+    "no-underscore-dangle": false
+  }
+}
