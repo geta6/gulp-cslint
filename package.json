@@ -1,10 +1,10 @@
 {
   "name": "gulp-cslint",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": false,
   "description": "gulp plugin for eslint your coffee-script source",
   "bin": "",
-  "main": "src/index.coffee",
+  "main": "lib/index.js",
   "scripts": {
     "test": "gulp test"
   },
